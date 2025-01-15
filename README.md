@@ -1,2 +1,3 @@
-<h1 alighn="center"> Hi there, I'm <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fru%2F85hg&psig=AOvVaw1UVmz5geEmCITlOd0cHzoJ&ust=1737002991110000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODS4MT29ooDFQAAAAAdAAAAABAE")> </h1> 
+<h1 alighn="center"> Hi there, I'm <img src="![image](https://github.com/user-attachments/assets/8aca3ce3-c5b4-49f0-bec1-9d9e7e3cd1b5)
+")> </h1> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=VENOM" alt="Typing SVG" /></a>
